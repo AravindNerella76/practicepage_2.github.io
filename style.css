@@ -1,0 +1,13 @@
+.navbar-brand {
+  display: flex;
+  align-items: center;
+}
+
+.navbar-brand img {
+  margin-right: 20px;
+  /* Adjust margin as needed */
+}
+.container-fluid
+{
+  background-color: aqua;
+}
